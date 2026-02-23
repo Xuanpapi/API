@@ -8,6 +8,7 @@ import com.example.demo.Exception.BadRequestException;
 import com.example.demo.Exception.ConflictException;
 import com.example.demo.Exception.NotFoundException;
 import com.example.demo.entity.User;
+import com.example.demo.DTO.*;
 
 @Service
 public class UserService {
